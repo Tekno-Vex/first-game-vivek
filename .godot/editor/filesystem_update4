@@ -1,0 +1,11 @@
+res://scenes/spikes.tscn
+res://scripts/spikes.gd
+res://scripts/player.gd
+res://scenes/game.tscn
+res://scenes/player.tscn
+res://scenes/platform.tscn
+res://scenes/coin.tscn
+res://scenes/killzone.tscn
+res://scenes/slime.tscn
+res://scenes/bee.tscn
+res://scripts/bee.gd
